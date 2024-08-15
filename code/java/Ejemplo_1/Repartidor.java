@@ -1,4 +1,4 @@
-package ejemplo_1;
+package Ejemplo_1;
 
 /**
  * Clase Repartidor, hija de empleado
