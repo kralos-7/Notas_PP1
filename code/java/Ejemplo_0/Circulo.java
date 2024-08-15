@@ -1,4 +1,3 @@
-package Ejemplo_0;
 
 class Circulo {
 

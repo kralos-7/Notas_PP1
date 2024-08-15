@@ -1,5 +1,3 @@
-package Ejemplo_1;
-
 /**
  * Clase Repartidor, hija de empleado
  * @author DiscoDurodeRoer
