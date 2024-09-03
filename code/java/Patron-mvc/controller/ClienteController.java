@@ -1,6 +1,3 @@
-import model.Cliente;
-import view.ClienteView;
-
 public class ClienteController {
 	//objetos vista y modelo
 	private ClienteView vista;

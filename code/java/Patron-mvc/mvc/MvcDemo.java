@@ -1,7 +1,3 @@
-import controller.ClienteController;
-import model.Cliente;
-import view.ClienteView;
-
 public class MvcDemo {
 	
 	public static void main (String [] args){
