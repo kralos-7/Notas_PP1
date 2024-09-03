@@ -1,13 +1,11 @@
-package com.ecodeup.mvc;
-
-import com.ecodeup.controller.ClienteController;
-import com.ecodeup.model.Cliente;
-import com.ecodeup.view.ClienteView;
+import controller.ClienteController;
+import model.Cliente;
+import view.ClienteView;
 
 public class MvcDemo {
 	
 	public static void main (String [] args){
-		// objeto vista, y modelo creado con el método estático 
+		// objeto vista, y modelo creado con el mï¿½todo estï¿½tico 
 		Cliente modelo= llenarDatosCliente();
 		ClienteView vista= new ClienteView();
 		
@@ -21,7 +19,7 @@ public class MvcDemo {
 		controlador.setNombre("Luis");
 		controlador.actualizarVista();		
 	}
-	//método estático que retorna el cliente con sus datos
+	//mï¿½todo estï¿½tico que retorna el cliente con sus datos
 	private static Cliente llenarDatosCliente() {
 		Cliente cliente = new Cliente();
 		cliente.setId(1);

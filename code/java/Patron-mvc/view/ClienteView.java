@@ -1,5 +1,3 @@
-package com.ecodeup.view;
-
 public class ClienteView {
 	public void imprimirDatosCliente(int id,String nombre, String apellido) {
 		System.out.println("**** DATOS CLIENTE ****");

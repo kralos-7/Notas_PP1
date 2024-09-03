@@ -1,7 +1,5 @@
-package com.ecodeup.controller;
-
-import com.ecodeup.model.Cliente;
-import com.ecodeup.view.ClienteView;
+import model.Cliente;
+import view.ClienteView;
 
 public class ClienteController {
 	//objetos vista y modelo
